@@ -1,7 +1,7 @@
-Project Title: EDA for Ecommerce Orders.
+## Project Title: EDA for Ecommerce Orders.
 
 
-Introduction: 
+Introduction:  
 This project delivers a comprehensive analysis of e-commerce transaction data to uncover key business insights across sales performance, customer behavior, product trends. 
 
 
@@ -28,4 +28,7 @@ Questions Answered: [sql/E_commerce_Queries/](sql/E_commerce_Queries/)
 17-High_Value_Customer_Segmentation.sql  
 
 
-How to Use: I have used MYSQL for this project.
+How to Use: 
+Step 1 : Download the data set from Kaggle  [https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset] (Link) .  
+Step 2 : Create a SCHEMA and Load Data using [sql/schema.sql](sql/schema.sql) file in MySQL.  
+Step 3 : Follow these [sql/E_commerce_Queries/](sql/E_commerce_Queries/) for Key Findings.
