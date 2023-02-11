@@ -5,8 +5,7 @@ Introduction:
 This project delivers a comprehensive analysis of e-commerce transaction data to uncover key business insights across sales performance, customer behavior, product trends. 
 
 
-Database Schema:  link to sql/schema.sql
-Queries on Ecommerce: sql/E_commerce_Queries/
+Database Schema:  [sql/schema.sql](sql/schema.sql) 
 
 Questions Answered: sql/E_commerce_Queries/
 
