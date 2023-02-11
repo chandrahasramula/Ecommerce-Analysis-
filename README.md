@@ -7,7 +7,7 @@ This project delivers a comprehensive analysis of e-commerce transaction data to
 
 Database Schema:  [sql/schema.sql](sql/schema.sql) 
 
-Questions Answered: sql/E_commerce_Queries/
+Questions Answered: [sql/E_commerce_Queries/](sql/E_commerce_Queries/)
 
 1-Top_10_Selling_Products.sql  
 2-Most_Frequent_Product_Categories_Purchased.sql  
